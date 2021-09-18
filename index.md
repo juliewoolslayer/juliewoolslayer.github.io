@@ -5,7 +5,7 @@
 ### Projects 
 
 [Stock Price Prediction](/sample_page)
-<img src="ko.PNG?raw=true"/>
+<img src="images/ko.PNG?raw=true"/>
 (https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/KO%20prediction%20using%20ARIMA%20gh.ipynb)
 
 ---
