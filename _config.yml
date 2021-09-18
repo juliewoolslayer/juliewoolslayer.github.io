@@ -1,12 +1,12 @@
 title: Juliane Woolslayer
-logo: "/images/pic.png?raw=true" # your photo (or logo) here
-description: Data Analyst
-  First description 
+logo: "/images/pic.png?raw=true" 
+description: > 
+  Data Analyst 
   <br><br>
-  Second description 
-  <br><br>
+ 
   <a href="https://www.linkedin.com/in/julianewoolslayera2a922a8/">View My LinkedIn Profile</a> 
 
   
 theme: jekyll-theme-minimal
  
+  
