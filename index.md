@@ -6,6 +6,7 @@
 
 [Stock Price Prediction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+(https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/KO%20prediction%20using%20ARIMA%20gh.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
