@@ -2,19 +2,41 @@
 
 ---
 
-### Projects 
+### Python 
 
 [Stock Price Prediction](/sample_page)
 <img src="images/ko.PNG?raw=true"/>
-(https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/KO%20prediction%20using%20ARIMA%20gh.ipynb)
+ 
+### Power BI Dashboards
 
+[Project 1 Title](/sample_page)
+<img src="images/vaccinationbymanufacturer.PNG?raw=true"/>
+ 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Stockprofile.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Big4stocks.PNG?raw=true"/>
+
+---
+
+### Skills
+
+Python
+Excel
+Access
+
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
 
 ---
 
