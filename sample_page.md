@@ -12,15 +12,11 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### Analysis of Tesla, Microsoft, Apple and Amazon from Sept 2020-Sept 2021 using Power BI
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/Big4stocks.PNG?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### Analysis of Tesla, Microsoft, Apple and Amazon from Sept 2020-Sept 2021 using Power BI
 
 <img src="images/Big4stocks.PNG?raw=true"/>
  
