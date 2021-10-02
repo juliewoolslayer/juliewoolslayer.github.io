@@ -8,22 +8,29 @@
 - [LaSalle University and SWOSU Transcripts](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/transcriptsLSUandSWOSU.pdf)
 
 <p align="center">
-  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/ediploma.pdf" width="45%">
+  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf" width="45%">
+  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="45%">
 </p>
 ---
 <p float="left">
   <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG" width="300"/>
   <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="300" />
+</p>
+
+---
+<p float="left">
   <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/Dataprep.PNG" width="300" />
 </p>
---- 
+
+  --- 
 <p float="left">
   <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/CompTIA.PNG" width="425"/> 
-  <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG" width="425"/> 
+  <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/teach.PNG" width="425"/> 
 </p>
+
 ---
+
 ### Skills
 
 - [Python](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/stockpredictionregressionARIMAfinal.ipynb)
