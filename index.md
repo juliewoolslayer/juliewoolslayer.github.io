@@ -9,7 +9,7 @@
  
 ### Power BI Dashboards
 
-[Project 1 Title](/sample_page)
+[COVID Vaccination by Manufacturer](https://app.powerbi.com/links/y-mh4FVzcm?ctid=cfa792cf-7768-4341-8857-81754c2afa1f&pbi_source=linkShare)
 <img src="images/vaccinationbymanufacturer.PNG?raw=true"/>
  
 ---
