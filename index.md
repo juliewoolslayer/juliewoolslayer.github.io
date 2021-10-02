@@ -7,6 +7,11 @@
 - [Teaching Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/SBEC%20Official%20Record%20of%20Educator%20Certificate.pdf)
 - [LaSalle University and SWOSU Transcripts](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/transcriptsLSUandSWOSU.pdf)
 
+<p align="center">
+  <img alt="Light" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/ediploma.pdf" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf" width="45%">
+</p>
 ---
 
 ### Skills
