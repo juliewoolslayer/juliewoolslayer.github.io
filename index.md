@@ -17,8 +17,8 @@
 <img src="images/Stockprofile.PNG?raw=true"/>
 
 ---
-[Big 4 Stocks]
-<img src="images/Big4stocks.PNG?raw=true"/>
+[Big 4 Stocks] (https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/PowerBIstocksbig4.pbix)
+<img src="images/TableJoins.PNG?raw=true"/>
 
 ---
 
