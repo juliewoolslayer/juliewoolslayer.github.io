@@ -19,8 +19,10 @@
   <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/Dataprep.PNG" width="300" />
 </p>
 --- 
-<img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="425"/> <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG" width="425"/> 
-
+<p float="left">
+  <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/CompTIA.PNG" width="425"/> 
+  <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG" width="425"/> 
+</p>
 ---
 ### Skills
 
