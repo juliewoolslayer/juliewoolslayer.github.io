@@ -19,7 +19,7 @@
   <img src="/Teach.png" width="100" />
 </p>
 --- 
-<img src="advdatamodeling.pdf" width="425"/> <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="425"/> 
+<img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="425"/> <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="425"/> 
 
 ---
 ### Skills
