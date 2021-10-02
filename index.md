@@ -13,11 +13,11 @@
 <img src="images/vaccinationbymanufacturer.PNG?raw=true"/>
  
 ---
-[Stock Profile](/pdf/sample_presentation.pdf)
+[Stock Profile](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/powerbistocksTD.pbix)
 <img src="images/Stockprofile.PNG?raw=true"/>
 
 ---
-[Big 4 Stocks](http://example.com/)
+[Big 4 Stocks]
 <img src="images/Big4stocks.PNG?raw=true"/>
 
 ---
