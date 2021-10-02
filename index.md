@@ -18,6 +18,9 @@
   <img src="/CompTIA.png" width="100" /> 
   <img src="/Teach.png" width="100" />
 </p>
+--- 
+<img src="AdvancedDataModeling.pdf" width="425"/> <img src="DataPrep.pdf" width="425"/> 
+
 ---
 ### Skills
 
