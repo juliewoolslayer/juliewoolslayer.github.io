@@ -1,7 +1,12 @@
 ## Portfolio
 ### Resume
+-[WGU Degree]
+-[WGU Transcript]
 -[Resume](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/DAResumeWoolslayer.docx)
 -[A+Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf)
+-[Teaching Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/SBEC%20Official%20Record%20of%20Educator%20Certificate.pdf)
+-[LaSalle University and SWOSU Transcripts]
+
 
 ---
 
