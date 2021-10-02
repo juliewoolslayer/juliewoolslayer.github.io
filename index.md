@@ -8,12 +8,17 @@
 - [LaSalle University and SWOSU Transcripts](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/transcriptsLSUandSWOSU.pdf)
 
 <p align="center">
-  <img alt="Light" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/ediploma.pdf" width="45%">
+  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/ediploma.pdf" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf" width="45%">
+  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf" width="45%">
 </p>
 ---
-
+<p float="left">
+  <img src="/ediploma.png" width="100" />
+  <img src="/CompTIA.png" width="100" /> 
+  <img src="/Teach.png" width="100" />
+</p>
+---
 ### Skills
 
 - [Python](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/stockpredictionregressionARIMAfinal.ipynb)
