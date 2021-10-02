@@ -15,11 +15,11 @@
 ---
 <p float="left">
   <img src="/ediploma.png" width="100" />
-  <img src="/CompTIA.png" width="100" /> 
+  <img src="/CompTIA.png" width="100" />
   <img src="/Teach.png" width="100" />
 </p>
 --- 
-<img src="AdvancedDataModeling.pdf" width="425"/> <img src="DataPrep.pdf" width="425"/> 
+<img src="advdatamodeling.pdf" width="425"/> <img src="dataanal.pdf" width="425"/> 
 
 ---
 ### Skills
