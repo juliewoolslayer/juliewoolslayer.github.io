@@ -17,7 +17,7 @@
 <img src="images/Stockprofile.PNG?raw=true"/>
 
 ---
-[Big 4 Stocks] (https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/PowerBIstocksbig4.pbix)
+[Big 4 Stocks](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/PowerBIstocksbig4.pbix)
 <img src="images/TableJoins.PNG?raw=true"/>
 
 ---
@@ -33,6 +33,8 @@
 
 ---
 
+### Resume
+-[Resume](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/DAResumeWoolslayer.docx)
 
 
 
