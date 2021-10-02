@@ -4,7 +4,7 @@
 
 ### Python 
 
-[Stock Price Prediction](/sample_page)
+[Stock Price Prediction](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/stockpredictionregressionARIMAfinal.ipynb)
 <img src="images/ko.PNG?raw=true"/>
  
 ### Power BI Dashboards
