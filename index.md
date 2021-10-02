@@ -32,7 +32,7 @@ SQL
 Tableau
 
 
-- [Python](http://example.com/)
+- [Python](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/stockpredictionregressionARIMAfinal.ipynb)
 - [Excel](http://example.com/)
 - [Access](http://example.com/)
 - [SQL](http://example.com/)
