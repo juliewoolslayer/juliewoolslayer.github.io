@@ -13,31 +13,23 @@
 <img src="images/vaccinationbymanufacturer.PNG?raw=true"/>
  
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Stock Profile](/pdf/sample_presentation.pdf)
 <img src="images/Stockprofile.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Big 4 Stocks](http://example.com/)
 <img src="images/Big4stocks.PNG?raw=true"/>
 
 ---
 
 ### Skills
 
-Python
-Excel
-Access
-Power BI
-SQL
-Tableau
-
-
 - [Python](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/stockpredictionregressionARIMAfinal.ipynb)
 - [Excel](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/PowerQueryExcel.xlsx)
-- [Access]( )
-- [SQL](http://example.com/)
+- [Access](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/Access.accdb )
 - [Power BI](https://app.powerbi.com/links/y-mh4FVzcm?ctid=cfa792cf-7768-4341-8857-81754c2afa1f&pbi_source=linkShare)
-- [Tableau](http://example.com/)
+- [Tableau]
+- [SQL]
 
 ---
 
