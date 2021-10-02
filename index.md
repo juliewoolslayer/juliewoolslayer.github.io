@@ -36,7 +36,7 @@ Tableau
 - [Excel](http://example.com/)
 - [Access](http://example.com/)
 - [SQL](http://example.com/)
-- [Power BI](http://example.com/)
+- [Power BI](https://app.powerbi.com/links/y-mh4FVzcm?ctid=cfa792cf-7768-4341-8857-81754c2afa1f&pbi_source=linkShare)
 - [Tableau](http://example.com/)
 
 ---
