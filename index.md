@@ -15,11 +15,11 @@
 ---
 <p float="left">
   <img src="/ediploma.png" width="100" />
-  <img src="/CompTIA.png" width="100" />
-  <img src="/Teach.png" width="100" />
+  <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="100" />
+  <img src="/advdatamodeling.png" width="100" />
 </p>
 --- 
-<img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="425"/> <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="425"/> 
+<img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="425"/> <img src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG" width="425"/> 
 
 ---
 ### Skills
