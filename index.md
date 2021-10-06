@@ -28,16 +28,6 @@
 
  ---
 
-### Skills
-
-- [Python](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/stockpredictionregressionARIMAfinal.ipynb)
-- [Excel](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/PowerQueryExcel.xlsx)
-- [Access](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/Access.accdb )
-- [Power BI](https://app.powerbi.com/links/y-mh4FVzcm?ctid=cfa792cf-7768-4341-8857-81754c2afa1f&pbi_source=linkShare)
-- [Tableau](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/TableauChurn.twb)
-- [SQL]
-
----
 ### Python 
 
 [Stock Price Prediction](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/stockpredictionregressionARIMAfinal.ipynb)
@@ -56,19 +46,16 @@
 [Big 4 Stocks](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/PowerBIstocksbig4.pbix)
 <img src="images/TableJoins.PNG?raw=true"/>
 
- 
+ ---
+### Skills
 
+- [Python](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/stockpredictionregressionARIMAfinal.ipynb)
+- [Excel](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/PowerQueryExcel.xlsx)
+- [Access](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/Access.accdb )
+- [Power BI](https://app.powerbi.com/links/y-mh4FVzcm?ctid=cfa792cf-7768-4341-8857-81754c2afa1f&pbi_source=linkShare)
+- [Tableau](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/TableauChurn.twb)
+- [SQL]
  
 
 ---
-
  
-
-
-
----
-
-
-
-
---- 
