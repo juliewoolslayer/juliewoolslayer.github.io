@@ -6,9 +6,12 @@
 - [A+Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf)
 - [Teaching Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/SBEC%20Official%20Record%20of%20Educator%20Certificate.pdf)
 - [LaSalle University and SWOSU Transcripts](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/transcriptsLSUandSWOSU.pdf)
+
 ---
 
 ![Drag Racing](WGUDegree.PNG)
+
+<img src="images/WGUDegree.PNG?raw=true"/>
 
 <p align="center">
   <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/WGUDegree.PNG "width="45%">
