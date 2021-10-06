@@ -1,7 +1,7 @@
 ## Portfolio
 ### Education and Certifications
 - [WGU Degree](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/ediploma.pdf)
-  <img src="images/WGUDegree.PNG?raw=true"/>
+ !<img src="images/WGUDegree.PNG?raw=true"/>
   
 - [WGU Transcript](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/TranscriptunofficialWGU.pdf)
 - [Resume](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/DAResumeWoolslayer.docx)
