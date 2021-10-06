@@ -7,7 +7,7 @@
 - [Teaching Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/SBEC%20Official%20Record%20of%20Educator%20Certificate.pdf)
 - [LaSalle University and SWOSU Transcripts](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/transcriptsLSUandSWOSU.pdf)
 ---
-<img src="images/WGUDEgree.PNG?raw=true"/>
+
 <p align="center">
   <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/WGUDegree.PNG "width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
