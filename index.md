@@ -9,25 +9,25 @@
 ---
 <img src="images/WGUDEgree.PNG?raw=true"/>
 <p align="center">
-  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/WGUDegree.PNG" width="45%">
+  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/WGUDegree.PNG "width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/transcriptWGU.PNG" width="45%">
+  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/transcriptWGU.PNG "width="45%">
 </p>
 ---
 <p align="center">
-  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/CompTIA.PNG" width="45%">
+  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/CompTIA.PNG "width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/teach.PNG" width="45%">
+  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/teach.PNG "width="45%">
 </p>
 ---
 <p align="center">
-  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG" width="45%">
+  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG "width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG" width="45%">
+  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG "width="45%">
 </p>
 ---
 <p align="center">
-  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/Dataprep.PNG" width="45%">
+  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/Dataprep.PNG "width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
  
