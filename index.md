@@ -1,44 +1,32 @@
 ## Portfolio
 ### Education and Certifications
 - [WGU Degree](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/ediploma.pdf)
- !<img src="images/WGUDegree.PNG?raw=true"/>
+  <img src="images/WGUDegree.PNG?raw=true"/>
   
 - [WGU Transcript](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/TranscriptunofficialWGU.pdf)
+  <img src="images/transcriptWGU.PNG?raw=true"/>
+  
+- [Advanced Data Modeling Microcredential](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG)
+  <img src="images/advdatamodeling.PNG?raw=true"/>
+  
+- [Data Analysis MicroCredential](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/dataanal.PNG)
+  <img src="images/dataanal.PNG?raw=true"/>
+  
+- [Data Preperation Microcredential](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/Dataprep.PNG)
+  <img src="images/Dataprep.PNG?raw=true"/>
+  
 - [Resume](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/DAResumeWoolslayer.docx)
+  <img src="images/WGUDegree.PNG?raw=true"/>
+
 - [A+Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf)
+  <img src="images/CompTIA.PNG?raw=true"/>
+
 - [Teaching Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/SBEC%20Official%20Record%20of%20Educator%20Certificate.pdf)
+  <img src="images/teach.PNG?raw=true"/>
+  
 - [LaSalle University and SWOSU Transcripts](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/transcriptsLSUandSWOSU.pdf)
 
----
-
- 
-
- 
-
-<p align="center">
-  <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/WGUDegree.PNG "width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="WGU Course Work" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/transcriptWGU.PNG "width="45%">
-</p>
----
-<p align="center">
-  <img alt="A+ Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/CompTIA.PNG "width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Teaching Certificate" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/teach.PNG "width="45%">
-</p>
----
-<p align="center">
-  <img alt="Data Modeling" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/advdatamodeling.PNG "width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Data Analysis" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/dataanal.PNG "width="45%">
-</p>
----
-<p align="center">
-  <img alt="Data Preparation" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/Dataprep.PNG "width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-</p>
- 
----
+ ---
 
 ### Skills
 
