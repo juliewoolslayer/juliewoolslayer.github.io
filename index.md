@@ -1,6 +1,8 @@
 ## Portfolio
 ### Education and Certifications
 - [WGU Degree](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/ediploma.pdf)
+  <img src="images/WGUDegree.PNG?raw=true"/>
+  
 - [WGU Transcript](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/TranscriptunofficialWGU.pdf)
 - [Resume](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/DAResumeWoolslayer.docx)
 - [A+Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf)
@@ -9,9 +11,9 @@
 
 ---
 
-![Drag Racing](WGUDegree.PNG)
+ 
 
-<img src="images/WGUDegree.PNG?raw=true"/>
+ 
 
 <p align="center">
   <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/WGUDegree.PNG "width="45%">
