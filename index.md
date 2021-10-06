@@ -8,6 +8,8 @@
 - [LaSalle University and SWOSU Transcripts](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/transcriptsLSUandSWOSU.pdf)
 ---
 
+![Drag Racing](WGUDegree.PNG)
+
 <p align="center">
   <img alt="WGU Degree" src="https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/images/WGUDegree.PNG "width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
