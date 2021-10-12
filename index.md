@@ -15,9 +15,6 @@
 - [Data Preperation Microcredential](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/Dataprep.PNG)
   <img src="images/Dataprep.PNG?raw=true"/>
   
-- [Resume](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/DAResumeWoolslayer.docx)
-  <img src="images/WGUDegree.PNG?raw=true"/>
-
 - [A+Certification](https://github.com/juliewoolslayer/juliewoolslayer.github.io/blob/master/CompTIA%20A%2B%20ce%20certificate.pdf)
   <img src="images/CompTIA.PNG?raw=true"/>
 
